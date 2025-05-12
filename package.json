@@ -9,6 +9,7 @@
   },
   "author": "Petra Alpigiano",
   "license": "ISC",
+  "type": "module",
   "description": "",
   "dependencies": {
     "express": "^5.1.0"
