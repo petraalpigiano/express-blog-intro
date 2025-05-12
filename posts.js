@@ -30,4 +30,6 @@ const posts = [
     tags: ["Dolce", "Torta"],
   },
 ];
-export default posts;
+const postsObj = { posts };
+
+export default postsObj;
